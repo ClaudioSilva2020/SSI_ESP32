@@ -1,0 +1,20 @@
+html{font-family: Helvetica; display:inline-block; margin: 0px auto; text-align: center;}
+body{background-color:  #003d91;}
+h1{color: #e6d32c; padding: 2vh;}
+p{font-size: 2rem;}
+#sem{
+    background-color: #003d91 ;  
+}
+.label{
+    color: #e6d32c ;
+}
+#seq{
+    color:  #e6d32c ;
+    font-size: 1.3rem;
+}
+#subBt{
+    background-color: darkgreen;
+    size: 6px;
+}
+
+            
